@@ -1,4 +1,4 @@
-# CARTOLAIF
+# IFRN FUTEBOL CLUBE
 
 Componentes: Jonathan Cardoso e Marcos Adriano. <br/>
 Turma: InfoWeb - 4 <br/>
